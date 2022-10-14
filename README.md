@@ -1,8 +1,9 @@
-# 單 is
-- ultimate sophistication
-- harder than complex
-- art for eliminate the unnecessary
-- prerequisite for reliability
+<img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
+
+- [모바일플랫폼에 진심인 iOS 엔지니어로 성장하러 가기 👍](https://team.daangn.com/jobs/5282170003/)
+- [디자인시스템에 진심인 iOS 엔지니어로 성장하러 가기 👍](https://team.daangn.com/jobs/5296539003/)
+- [망설이시고 계신가요? 티타임 환영해요!](https://www.linkedin.com/in/hyeonsu-ha-7ba02b112/)
+
 
 # Latest Articles
 - [제품 엔지니어, 어느 모바일 엔지니어에 대한 이야기](https://medium.com/@h2s1880/%EC%96%B4%EB%8A%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-cedccb1459c)
