@@ -5,6 +5,7 @@
 
 
 # Latest Articles
+- [실험과 현지화에 흔들리지 않는 모바일 엔지니어링](https://medium.com/p/3c648f2ac74)
 - [주방을 더럽히지 않고 맛있는 스파게티 코드만들기](https://h2s1880.medium.com/%EC%A3%BC%EB%B0%A9%EC%9D%84-%EB%8D%94%EB%9F%BD%ED%9E%88%EC%A7%80-%EC%95%8A%EA%B3%A0-%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0-%EC%BD%94%EB%93%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-7dd443fb489f)
 - [제품 엔지니어, 어느 모바일 엔지니어에 대한 이야기](https://medium.com/@h2s1880/%EC%96%B4%EB%8A%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-cedccb1459c)
 - [Feature Tech Leadership 연구일지](https://h2s1880.medium.com/feature-tech-leadership-%EC%97%B0%EA%B5%AC%EC%9D%BC%EC%A7%80-d8c994d9e39b)
