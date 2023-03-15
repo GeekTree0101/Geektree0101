@@ -1,8 +1,3 @@
-<img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
-
-- [모바일플랫폼에 진심인 iOS 엔지니어로 성장하러 가기 👍](https://team.daangn.com/jobs/5282170003/)
-- [망설이시고 계신가요? 티타임 환영해요!](https://www.linkedin.com/in/hyeonsu-ha-7ba02b112/)
-
 
 # Latest Articles
 - [실험과 현지화에 흔들리지 않는 모바일 엔지니어링](https://medium.com/p/3c648f2ac74)
