@@ -1,5 +1,6 @@
-
-# Latest Articles
+- [창업하기전에 했으면 좋았을 것](https://medium.com/@h2s1880/%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%ED%96%88%EC%97%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83-8bbc26ae7b12)
+- [레거시 시스템 개선을 위한 의사결정](https://medium.com/@h2s1880/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-025d6b65e069)
+- [오래된 골목과 동네 청소부](https://medium.com/@h2s1880/%EC%98%A4%EB%9E%98%EB%90%9C-%EA%B3%A8%EB%AA%A9%EA%B3%BC-%EB%8F%99%EB%84%A4-%EC%B2%AD%EC%86%8C%EB%B6%80-56b2f8b2520b)
 - [실험과 현지화에 흔들리지 않는 모바일 엔지니어링](https://medium.com/p/3c648f2ac74)
 - [주방을 더럽히지 않고 맛있는 스파게티 코드만들기](https://h2s1880.medium.com/%EC%A3%BC%EB%B0%A9%EC%9D%84-%EB%8D%94%EB%9F%BD%ED%9E%88%EC%A7%80-%EC%95%8A%EA%B3%A0-%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0-%EC%BD%94%EB%93%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-7dd443fb489f)
 - [제품 엔지니어, 어느 모바일 엔지니어에 대한 이야기](https://medium.com/@h2s1880/%EC%96%B4%EB%8A%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-cedccb1459c)
