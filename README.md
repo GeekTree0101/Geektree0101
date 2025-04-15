@@ -1,3 +1,4 @@
+- [제품은 진심된 마음으로](https://medium.com/@h2s1880/%EC%A0%9C%ED%92%88%EC%9D%80-%EC%A7%84%EC%8B%AC%EB%90%9C-%EB%A7%88%EC%9D%8C%EC%9C%BC%EB%A1%9C-63d80b6083e8)
 - [Flutter, 생존형 개발팁](https://h2s1880.medium.com/flutter-%EC%83%9D%EC%A1%B4%ED%98%95-%EA%B0%9C%EB%B0%9C-%ED%8C%81-070073421aea)
 - [첫 실패에 대해서](https://medium.com/@h2s1880/%EC%B2%AB-%EC%8B%A4%ED%8C%A8%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-f90830173cec)
 - [창업하기전에 했으면 좋았을 것](https://medium.com/@h2s1880/%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%ED%96%88%EC%97%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83-8bbc26ae7b12)
